@@ -1,2 +1,2 @@
 # lsp-nwscript
-Language Server Protocol for Neverwinter Nights: Enhanced Edition's NWScrip
+Don't use it. This is just a learning project.
